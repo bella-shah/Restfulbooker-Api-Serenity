@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.herokuapp.restful_booker.bookinginfo.BookingCURDTestWithSteps" skipped="0" tests="1" time="4.17" timestamp="2022-06-07T15:06:50.255+01:00[Europe/London]"><testcase classname="com.herokuapp.restful_booker.bookinginfo.BookingCURDTestWithSteps" name="Update the Booking and verify the updated information"><failure message="1 expectation failed.&#10;Expected status code &lt;201&gt; but was &lt;403&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;201&gt; but was &lt;403&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;201&gt; but was &lt;403&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.herokuapp.restful_booker.bookinginfo.BookingCURDTestWithSteps.test003(BookingCURDTestWithSteps.java:66)&#13;
+</system-err></testcase></testsuite>

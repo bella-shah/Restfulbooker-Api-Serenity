@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.herokuapp.restful_booker.bookinginfo.BookingCURDTestWithSteps" skipped="0" tests="1" time="3.81" timestamp="2022-06-07T15:20:47.190+01:00[Europe/London]"><testcase classname="com.herokuapp.restful_booker.bookinginfo.BookingCURDTestWithSteps" name="This will create new booking"/></testsuite>

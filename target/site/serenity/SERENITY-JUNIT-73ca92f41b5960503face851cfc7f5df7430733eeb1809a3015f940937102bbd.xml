@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.herokuapp.restful_booker.bookinginfo.BookingCURDTest" skipped="0" tests="1" time="3.95" timestamp="2022-06-07T15:13:08.157+01:00[Europe/London]"><testcase classname="com.herokuapp.restful_booker.bookinginfo.BookingCURDTest" name="This will create booking"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;500&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;500&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;500&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.herokuapp.restful_booker.bookinginfo.BookingCURDTest.test001(BookingCURDTest.java:54)&#13;
+</system-err></testcase></testsuite>

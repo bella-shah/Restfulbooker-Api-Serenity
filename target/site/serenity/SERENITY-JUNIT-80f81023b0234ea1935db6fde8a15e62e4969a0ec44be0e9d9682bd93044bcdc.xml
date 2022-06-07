@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.herokuapp.restful_booker.bookinginfo.BookingCURDTestWithSteps" skipped="0" tests="1" time="4.37" timestamp="2022-06-07T18:55:49.774+01:00[Europe/London]"><testcase classname="com.herokuapp.restful_booker.bookinginfo.BookingCURDTestWithSteps" name="Verify if the Booking was done correctly"><error message="java.util.HashMap cannot be cast to java.util.ArrayList" type="java.lang.ClassCastException">java.util.HashMap cannot be cast to java.util.ArrayList</error><system-err>java.util.HashMap cannot be cast to java.util.ArrayList&#13;
+com.herokuapp.restful_booker.bookinginfo.BookingSteps.getBookingInfoByFirstname(BookingSteps.java:44)&#13;
+com.herokuapp.restful_booker.bookinginfo.BookingCURDTestWithSteps.test002(BookingCURDTestWithSteps.java:48)&#13;
+</system-err></testcase></testsuite>
